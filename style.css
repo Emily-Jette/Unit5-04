@@ -1,0 +1,33 @@
+#main-page {
+  background-color: darksalmon;
+}
+
+#picture {
+  border: 5px outset lightblue;
+  padding: 3px;
+  background-color: whitesmoke;
+}
+
+#button1 {
+  border: 5px ridge burlywood;
+  padding: 3px;
+  color: lightsteelblue;
+}
+
+#text {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: antiquewhite;
+  width: 440px;
+}
+
+#button2 {
+  border: 5px groove brown;
+  padding: 3px;
+  color: palevioletred;
+}
+
+#button4 {
+  border: 5px groove moccasin;
+  padding: 3px;
+  color: plum;
+}
