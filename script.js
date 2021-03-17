@@ -2,7 +2,7 @@
 document.getElementById('button1').addEventListener('click', imageChange)
 
 function imageChange () {
-  document.getElementById('picture').src = "./images/whitecat.jpeg"
+  document.getElementById('picture').src = './images/whitecat.jpeg'
 }
 
 // this code will change the text that is displayed
@@ -18,14 +18,14 @@ function textChange () {
 document.getElementById('button3').addEventListener('click', textHide)
 
 function textHide () {
-  document.getElementById('text2').style.display = "none"
+  document.getElementById('text2').style.display = 'none'
 }
 
 // this code will make text hide using the display tag
 document.getElementById('button4').addEventListener('click', textAppear)
 
 function textAppear () {
-  document.getElementById('text2').style.display = "block"
+  document.getElementById('text2').style.display = 'block'
 }
 
 // this code will change the background color
